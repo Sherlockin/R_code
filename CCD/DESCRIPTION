@@ -1,0 +1,11 @@
+Package: CCD
+Type: Package
+Title: Evaluation the effect of interval estimation.
+Version: 0.1.0
+Author: Shuang Liu
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package is used to evaluate the effect of 
+          interval estimation by confidence distribution.
+License: GPL
+Encoding: UTF-8
+LazyData: true
